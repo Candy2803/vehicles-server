@@ -1,9 +1,190 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
-}
+"vehicles":[
+    {
+        "Id": "1",
+        "type": "suv",
+        "Brand": "Toyota",
+        "model": "corolla cross",
+        "year": "2023",
+        "shop": "jiji mall",
+        "image": "cross.jpeg"
+    },
+    {
+        "Id": "2",
+        "type": "suv",
+        "Brand": "Mazda",
+        "model": "cx-5",
+        "year": "2023",
+        "shop": "jiji mall",
+        "image": "cx-5.jpeg"
+    },
+    {
+        "Id": "3",
+        "type": "suv",
+        "Brand": "Mercedes Benz",
+        "model": "c200",
+        "year": "2023",
+        "shop": "jiji mall",
+        "image": "benzo.jpeg"
+    },
+    {
+        "Id": "4",
+        "type": "suv",
+        "Brand": "Subaru",
+        "model": "forester",
+        "year": "2020",
+        "shop": "jiji mall",
+        "image": "subaru.jpeg"
+    },
+    {
+        "Id": "5",
+        "type": "suv",
+        "Brand": "honda",
+        "model": "crv",
+        "year": "2020",
+        "shop": "jiji mall",
+        "image": "honda.jpeg"
+    },
+    {
+        "Id": "6",
+        "type": "suv",
+        "Brand": "Mazda",
+        "model": "premacy",
+        "year": "2020",
+        "shop": "jiji mall",
+        "image": "premacy.jpeg"
+    },
+    {
+        "Id": "7",
+        "type": "suv",
+        "Brand": "Volkswagen",
+        "model": "tiguan",
+        "year": "2024",
+        "shop": "jiji mall",
+        "image": "tiguan.jpeg"
+    },
+    {
+        "Id": "8",
+        "type": "suv",
+        "Brand": "Audi",
+        "model": "Q3",
+        "year": "2024",
+        "shop": "jiji mall",
+        "image": "q3.jpeg"
+    },
+    {
+        "Id": "9",
+        "type": "suv",
+        "Brand": "Range rover",
+        "model": "evoque",
+        "year": "2024",
+        "shop": "jiji mall",
+        "image": "range.jpeg"
+    },
+    {
+        "Id": "10",
+        "type": "suv",
+        "Brand": "Land cruiser",
+        "model": "v8",
+        "year": "2024",
+        "shop": "jiji mall",
+        "image": "v8.jpeg"
+    },
+    {
+        "Id": "11",
+        "type": "suv",
+        "Brand": "Land cruiser",
+        "model": "tx",
+        "year": "2024",
+        "shop": "jiji mall",
+        "image": "tx.jpeg"
+    },
+    {
+        "Id": "12",
+        "type": "suv",
+        "Brand": "BMW",
+        "model": "X6",
+        "year": "2020",
+        "shop": "jiji mall",
+        "image": "x6.jpeg"
+    },
+    {
+        "Id": "13",
+        "type": "suv",
+        "Brand": "Jaguar",
+        "model": "F-pace",
+        "year": "2024",
+        "shop": "jiji mall",
+        "image": "f-pace.jpeg"
+    },
+    {
+        "Id": "14",
+        "type": "suv",
+        "Brand": "Nissan",
+        "model": "rogue",
+        "year": "2022",
+        "shop": "jiji mall",
+        "image": "rogue.jpeg"
+    }
+],
+    "spare":[
+        {
+            "Id": "1",
+            "type": "suv",
+            "Brand": "Toyota",
+            "model": "corolla cross",
+            "year": "2023",
+            "image": "cx-5.jpeg"
+        },
+        {
+            "Id": "2",
+            "type": "suv",
+            "Brand": "Mazda",
+            "model": "cx-5",
+            "year": "2023",
+            "image": "cx-5.jpeg"
+        },
+        {
+            "Id": "3",
+            "type": "suv",
+            "Brand": "Mazda",
+            "model": "cx-5",
+            "year": "2023",
+            "image": "cx-5.jpeg"
+        },
+        {
+            "Id": "4",
+            "type": "suv",
+            "Brand": "Mazda",
+            "model": "cx-5",
+            "year": "2023",
+            "image": "cx-5.jpeg"
+        },
+        {
+            "Id": "5",
+            "type": "suv",
+            "Brand": "Mazda",
+            "model": "cx-5",
+            "year": "2023",
+            "image": "cx-5.jpeg"
+        },
+        {
+            "Id": "6",
+            "type": "suv",
+            "Brand": "Mazda",
+            "model": "cx-5",
+            "year": "2023",
+            "image": "cx-5.jpeg"
+        },
+        {
+            "Id": "7",
+            "type": "suv",
+            "Brand": "Mazda",
+            "model": "cx-5",
+            "year": "2023",
+            "image": "cx-5.jpeg"
+        }
+    ]
+    }
+    
+
