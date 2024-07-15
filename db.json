@@ -125,6 +125,60 @@
         "year": "2022",
         "shop": "jiji mall",
         "image": "rogue.jpeg"
+    },
+    {
+        "Id": "15",
+        "type": "suv",
+        "Brand": "Jaguar",
+        "model": "F-pace",
+        "year": "2024",
+        "shop": "Cheki",
+        "image": "f-pace.jpeg"
+    },
+    {
+        "Id": "16",
+        "type": "suv",
+        "Brand": "Toyota",
+        "model": "corolla cross",
+        "year": "2023",
+        "shop": "jiji mall",
+        "image": "cross.jpeg"
+    },
+    {
+        "Id": "17",
+        "type": "suv",
+        "Brand": "Toyota",
+        "model": "corolla cross",
+        "year": "2023",
+        "shop": "jiji mall",
+        "image": "cross.jpeg"
+    },
+    {
+        "Id": "18",
+        "type": "suv",
+        "Brand": "Toyota",
+        "model": "corolla cross",
+        "year": "2023",
+        "shop": "jiji mall",
+        "image": "cross.jpeg"
+    },
+    {
+        "Id": "19",
+        "type": "suv",
+        "Brand": "Toyota",
+        "model": "corolla cross",
+        "year": "2023",
+        "shop": "jiji mall",
+        "image": "cross.jpeg"
+    },
+    {
+        "Id": "20",
+        "type": "suv",
+        "Brand": "Toyota",
+        "model": "corolla cross",
+        "year": "2023",
+        "shop": "jiji mall",
+        "image": "cross.jpeg"
     }
 ],
     "spare":[
